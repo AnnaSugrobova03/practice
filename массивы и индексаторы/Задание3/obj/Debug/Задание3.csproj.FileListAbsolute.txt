@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Задание3\bin\Debug\Задание3.exe.config
+C:\Users\user\source\repos\Задание3\bin\Debug\Задание3.exe
+C:\Users\user\source\repos\Задание3\bin\Debug\Задание3.pdb
+C:\Users\user\source\repos\Задание3\obj\Debug\Задание3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Задание3\obj\Debug\Задание3.exe
+C:\Users\user\source\repos\Задание3\obj\Debug\Задание3.pdb
+C:\Users\user\source\repos\Задание3\obj\Debug\Задание3.csproj.AssemblyReference.cache
