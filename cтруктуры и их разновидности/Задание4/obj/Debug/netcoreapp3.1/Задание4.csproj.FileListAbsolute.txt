@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Практика\Задание4\bin\Debug\netcoreapp3.1\Задание4.exe
+C:\Users\user\Desktop\Практика\Задание4\bin\Debug\netcoreapp3.1\Задание4.deps.json
+C:\Users\user\Desktop\Практика\Задание4\bin\Debug\netcoreapp3.1\Задание4.runtimeconfig.json
+C:\Users\user\Desktop\Практика\Задание4\bin\Debug\netcoreapp3.1\Задание4.runtimeconfig.dev.json
+C:\Users\user\Desktop\Практика\Задание4\bin\Debug\netcoreapp3.1\Задание4.dll
+C:\Users\user\Desktop\Практика\Задание4\bin\Debug\netcoreapp3.1\Задание4.pdb
+C:\Users\user\Desktop\Практика\Задание4\obj\Debug\netcoreapp3.1\Задание4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Практика\Задание4\obj\Debug\netcoreapp3.1\Задание4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Практика\Задание4\obj\Debug\netcoreapp3.1\Задание4.AssemblyInfo.cs
+C:\Users\user\Desktop\Практика\Задание4\obj\Debug\netcoreapp3.1\Задание4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика\Задание4\obj\Debug\netcoreapp3.1\Задание4.dll
+C:\Users\user\Desktop\Практика\Задание4\obj\Debug\netcoreapp3.1\Задание4.pdb
+C:\Users\user\Desktop\Практика\Задание4\obj\Debug\netcoreapp3.1\Задание4.genruntimeconfig.cache
