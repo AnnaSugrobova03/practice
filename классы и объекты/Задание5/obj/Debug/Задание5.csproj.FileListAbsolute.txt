@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Практика\cтруктуры и их разновидности\Задание5\bin\Debug\Задание5.exe.config
+C:\Users\user\Desktop\Практика\cтруктуры и их разновидности\Задание5\bin\Debug\Задание5.exe
+C:\Users\user\Desktop\Практика\cтруктуры и их разновидности\Задание5\bin\Debug\Задание5.pdb
+C:\Users\user\Desktop\Практика\cтруктуры и их разновидности\Задание5\obj\Debug\Задание5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика\cтруктуры и их разновидности\Задание5\obj\Debug\Задание5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика\cтруктуры и их разновидности\Задание5\obj\Debug\Задание5.exe
+C:\Users\user\Desktop\Практика\cтруктуры и их разновидности\Задание5\obj\Debug\Задание5.pdb
