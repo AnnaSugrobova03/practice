@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\bin\Debug\Задание1.exe
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\bin\Debug\Задание1.pdb
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\obj\Debug\Задание1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\obj\Debug\Задание1.Form1.resources
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\obj\Debug\Задание1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\obj\Debug\Задание1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\obj\Debug\Задание1.exe
+C:\Users\user\Desktop\Практика\шаблон MVP\Задание1\obj\Debug\Задание1.pdb
