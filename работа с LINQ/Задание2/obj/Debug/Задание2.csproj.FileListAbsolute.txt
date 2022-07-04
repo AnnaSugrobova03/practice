@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание2\bin\Debug\Задание2.exe.config
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание2\bin\Debug\Задание2.exe
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание2\bin\Debug\Задание2.pdb
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание2\obj\Debug\Задание2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание2\obj\Debug\Задание2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание2\obj\Debug\Задание2.exe
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание2\obj\Debug\Задание2.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание7\bin\Debug\Задание7.exe.config
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание7\bin\Debug\Задание7.exe
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание7\bin\Debug\Задание7.pdb
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание7\obj\Debug\Задание7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание7\obj\Debug\Задание7.exe
+C:\Users\user\Desktop\Практика\работа с LINQ\Задание7\obj\Debug\Задание7.pdb
